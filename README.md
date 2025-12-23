@@ -29,7 +29,7 @@ This project implements an end‑to‑end content pipeline:
 
 ---
 ##Project Flow
-<img src="./images/workflow.png" width="600" alt="App Screenshot"/>
+<img src="images/workflow.png" width="600" alt="App Screenshot"/>
 ## Project Structure
 
 beyondchats-assignment/
