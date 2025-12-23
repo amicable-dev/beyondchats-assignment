@@ -218,11 +218,11 @@ node src/index.js
 npm run dev
 
 ## Screenshorts
-<img src="https://raw.githubusercontent.com/amicable-dev/beyondchats-assignment/main/Images/Data.png" alt="Data" width="700">
+<img src="https://raw.githubusercontent.com/amicable-dev/beyondchats-assignment/main/Images/Data.png" alt="Data" width="500">
 
-<img src="https://raw.githubusercontent.com/amicable-dev/beyondchats-assignment/main/Images/BlogsList.png" alt="Blogs List" width="700">
+<img src="https://raw.githubusercontent.com/amicable-dev/beyondchats-assignment/main/Images/BlogsList.png" alt="Blogs List" width="500">
 
-<img src="https://raw.githubusercontent.com/amicable-dev/beyondchats-assignment/main/Images/UpdatedBlog.png" alt="Updated Blog" width="700">
+<img src="https://raw.githubusercontent.com/amicable-dev/beyondchats-assignment/main/Images/UpdatedBlog.png" alt="Updated Blog" width="500">
 
 
 
