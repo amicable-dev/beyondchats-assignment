@@ -1,4 +1,5 @@
 # BeyondChats Assignment – AI Article Pipeline
+#Live Preview <a href="https://beyondchats-assignment-seven.vercel.app/">Live Demo</a>
 
 This project implements an end‑to‑end content pipeline:
 
