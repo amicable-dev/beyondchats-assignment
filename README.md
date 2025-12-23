@@ -218,10 +218,11 @@ node src/index.js
 npm run dev
 
 ## Screenshorts
-![Workflow](https://raw.githubusercontent.com/amicable-dev/beyondchats-assignment/main/Images/Data.png)
-![Workflow](https://raw.githubusercontent.com/amicable-dev/beyondchats-assignment/main/Images/BlogsList.png)
-![Workflow](https://raw.githubusercontent.com/amicable-dev/beyondchats-assignment/main/Images/UpdatedBlog.png)
+<img src="https://raw.githubusercontent.com/amicable-dev/beyondchats-assignment/main/Images/Data.png" alt="Data" width="700">
 
+<img src="https://raw.githubusercontent.com/amicable-dev/beyondchats-assignment/main/Images/BlogsList.png" alt="Blogs List" width="700">
+
+<img src="https://raw.githubusercontent.com/amicable-dev/beyondchats-assignment/main/Images/UpdatedBlog.png" alt="Updated Blog" width="700">
 
 
 
