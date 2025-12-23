@@ -217,7 +217,10 @@ node src/index.js
 **Frontend**
 npm run dev
 
-
+## Screenshorts
+![Workflow](https://raw.githubusercontent.com/amicable-dev/beyondchats-assignment/main/Images/Data.png)
+![Workflow](https://raw.githubusercontent.com/amicable-dev/beyondchats-assignment/main/Images/BlogsList.png)
+![Workflow](https://raw.githubusercontent.com/amicable-dev/beyondchats-assignment/main/Images/UpdatedBlog.png)
 
 
 
