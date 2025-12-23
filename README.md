@@ -218,10 +218,11 @@ node src/index.js
 npm run dev
 
 ## Screenshorts
+## Scraped Data
 <img src="https://raw.githubusercontent.com/amicable-dev/beyondchats-assignment/main/Images/Data.png" alt="Data" width="500">
-
+## Blog List
 <img src="https://raw.githubusercontent.com/amicable-dev/beyondchats-assignment/main/Images/BlogsList.png" alt="Blogs List" width="500">
-
+## Updated Blog
 <img src="https://raw.githubusercontent.com/amicable-dev/beyondchats-assignment/main/Images/UpdatedBlog.png" alt="Updated Blog" width="500">
 
 
