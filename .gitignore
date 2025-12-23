@@ -1,0 +1,49 @@
+# OS junk
+.DS_Store
+Thumbs.db
+
+# IDE / editor
+.vscode/
+.idea/
+*.iml
+
+# Node (frontend / worker)
+node_modules/
+npm-debug.log*
+yarn-error.log*
+pnpm-lock.yaml
+package-lock.json
+# keep lockfile only if your assignment requires it
+
+# PHP / Composer (Laravel)
+vendor/
+composer.lock
+phpunit.xml
+phpunit.xml.cache
+
+# Laravel storage & cache
+/storage/framework/*
+!/storage/framework/.gitignore
+/storage/logs/*
+!/storage/logs/.gitignore
+bootstrap/cache/*
+!bootstrap/cache/.gitignore
+
+# Environment / secrets
+.env
+.env.*
+.env.example
+.env.keys
+*.key
+
+# Coverage / build artifacts
+coverage/
+dist/
+build/
+public/hot
+public/storage
+*.log
+
+# Misc
+.npm/
+.cache/
