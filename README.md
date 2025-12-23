@@ -28,7 +28,8 @@ This project implements an end‑to‑end content pipeline:
 - **Env Management:** dotenv (with dotenvx tips in logs)
 
 ---
-
+##Project Flow
+<img src="./images/workflow.png" width="600" alt="App Screenshot"/>
 ## Project Structure
 
 beyondchats-assignment/
